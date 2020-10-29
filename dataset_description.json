@@ -1,5 +1,5 @@
 {
-    "Name": "SUDMEX_TMS: The Mexican dataset of an rTMS clinical trial on cocaine use disorder patients.",
+    "Name": "SUDMEX_CONN: The Mexican dataset of cocaine use disorder patients.",
     "BIDSVersion": "1.0.1",
     "License": "CC0",
     "Authors": [
