@@ -3,12 +3,11 @@
     "BIDSVersion": "1.0.1",
     "License": "CC0",
     "Authors": [
-        "Ruth Alcala-Lozano",
-        "Sofia Fernandez-Lozano",
-        "Erick Morelos-Santana",
-        "Alan Davalos",
-        "Viviana Villicana",
-        "Eduardo A. Garza-Villarreal"
+        "Eduardo A. Garza-Villarreal",
+        "Jorge Julio Gonzalez Olvera",
+        "Thania Balducci",
+        "Diego Angeles Valdez",
+        "Alely Valencia"
     ],
     "Acknowledgments": "",
     "HowToAcknowledge": "Cite the preprint: Clinical and functional connectivity outcomes of 5-Hz repeated transcranial magnetic stimulation as an add-on treatment in cocaine use disorder: a double-blind randomized controlled trial.\nEduardo A. Garza-Villarreal, Ruth Alcala-Lozano, Sofia Fernandez-Lozano, Erik Morelos-Santana, Alan Davalos, Viviana Villica\u00f1a, Sarael Alcauter, Francisco Xavier Castellanos, Jorge J Gonzalez-Olvera\nmedRxiv 2020.07.15.20154708; doi: https://doi.org/10.1101/2020.07.15.20154708",
